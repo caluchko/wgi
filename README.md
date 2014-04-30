@@ -1,9 +1,7 @@
 ##wgi
 ===
-####Analysis of World Governance Indicators
-#### This repo contains data from World Governance Indicators (WGI) as well as 
-#### R code for manipulating, visualizing, and analyzing the data. 
-#### More information on WGI can be found [here](http://info.worldbank.org/governance/wgi/index.aspx#home)
+####Analysis of World Governance Indicators 
+####This repo contains data from World Governance Indicators (WGI) as well as R code for manipulating, visualizing, and analyzing the data. More information on WGI can be found [here](http://info.worldbank.org/governance/wgi/index.aspx#home)
 ***
 ### Data: 
 #### An Excel speadsheeting containing values for all six WGI indicators for 1996-2012
